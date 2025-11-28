@@ -10,7 +10,6 @@ const SUB_SERVICE_IP_PORT = 'http://' + service_ip + ':31002';
 const MUL_SERVICE_IP_PORT = 'http://' + service_ip + ':31003';
 const DIV_SERVICE_IP_PORT = 'http://' + service_ip + ':31004';
 
-
 // FastAPI metrics endpoint
 const METRICS_SERVICE = 'http://5.7.3.43:50060/measures';
 
